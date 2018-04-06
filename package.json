@@ -1,0 +1,30 @@
+{
+  "name": "tvmaze-app",
+  "version": "1.0.0",
+  "description": "app for tv shows informations from tv_maze API",
+  "main": "url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+    // "url": "git+https://github.com/parthp2/tvmaze-app.git"
+  },
+  "keywords": [
+    "tv",
+    "shows",
+    "tvmaze"
+  ],
+  "author": "Parth,Yash,Damin,Abdullah",
+  "license": "MIT",
+  "bugs": {
+    //"url": "https://github.com/parthp2/tvmaze-app/issues"
+  },
+ // "homepage": "https://github.com/parthp2/tvmaze-app#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.1.0",
+    "superagent": "^3.8.2",
+    "yargs": "^11.0.0"
+  }
+}
