@@ -16,7 +16,7 @@
     "shows",
     "tvmaze"
   ],
-  "author": "Parth,Yash,Damin,Abdullah",
+  "author": "Yash,Parth,Damin,Abdullah",
   "license": "MIT",
   "bugs": {
 
@@ -31,3 +31,4 @@
     "yargs": "^11.0.0"
   }
 }
+
